@@ -14,7 +14,7 @@ I'm not a career developer. I come from managing digital platforms: content syst
 
 🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (49 stars) - A free German text humanizer that detects and removes AI writing patterns (66 patterns across 10 categories). Deterministic linter, 5-pass workflow, installable as a Claude Code plugin.
 
-🔍 [**AußenBlick GKV**](https://martin-moeller.biz/lab/aussenblick-gkv) - An evidence-based audit of public health and benefit information across nearly the entire German statutory health insurance sector: 56,198 public pages, 84 web units, published as an open-access study.
+🔍 [**AußenBlick GKV**](https://martin-moeller.biz/en/lab/aussenblick-gkv) - An evidence-based audit of public health and benefit information across nearly the entire German statutory health insurance sector: 56,198 public pages, 84 web units, published as an open-access study.
 
 🧩 [**fusion-lite**](https://github.com/marmbiz/fusion-lite) - Local fusion-style multi-model panels that let your existing CLI and API subscriptions do the heavy lifting.
 
@@ -34,9 +34,9 @@ Small, opinionated tools I build and use myself.
 
 Where content management meets evidence and governance.
 
-🔍 [**AußenBlick GKV**](https://martin-moeller.biz/lab/aussenblick-gkv) - Which public statements should editorial teams review first? A reproducible method that surfaces the pages worth a closer look, without rankings and without blame. Public pages only, no insured-person data, no final legal assessment.
+🔍 [**AußenBlick GKV**](https://martin-moeller.biz/en/lab/aussenblick-gkv) - Which public statements should editorial teams review first? A reproducible method that surfaces the pages worth a closer look, without rankings and without blame. Public pages only, no insured-person data, no final legal assessment.
 
-✍️ [**The Lab**](https://martin-moeller.biz/lab) - Notes on SEO, GEO and AI-content governance from running real platforms.
+✍️ [**The Lab**](https://martin-moeller.biz/en/lab) - Notes on SEO, GEO and AI-content governance from running real platforms.
 
 ---
 

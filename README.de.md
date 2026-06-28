@@ -4,7 +4,7 @@
 
 Ich bin kein klassischer Entwickler. Mein Hintergrund ist das Management digitaler Plattformen: Content-Systeme, redaktionelle Workflows, SEO und Governance für regulierte Branchen wie Krankenversicherung, Banking und Biotech. Mit Coding-Agents baue ich daraus Werkzeuge, die laufen: einen Humanizer für deutsche Texte, ein Multi-Model-CLI und ein Audit von 56.198 öffentlichen Seiten aus der gesetzlichen Krankenversicherung.
 
-🌐 [martin-moeller.biz](https://martin-moeller.biz)
+🌐 [martin-moeller.biz](https://martin-moeller.biz) · 💼 [LinkedIn](https://www.linkedin.com/in/martinmoellerbiz)
 
 ---
 

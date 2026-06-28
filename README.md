@@ -6,7 +6,7 @@
 
 I'm not a career developer. I come from managing digital platforms: content systems, editorial workflows, SEO and governance for regulated industries (health insurance, banking, biotech). With coding agents I turn those platform and content problems into working tools - a German AI-writing linter, a multi-model CLI, and an audit of 56,198 public pages across the German statutory health insurance sector.
 
-🌐 [martin-moeller.biz](https://martin-moeller.biz)
+🌐 [martin-moeller.biz](https://martin-moeller.biz) · 💼 [LinkedIn](https://www.linkedin.com/in/martinmoellerbiz)
 
 ---
 

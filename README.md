@@ -2,9 +2,9 @@
 
 **English** · [Deutsch](README.de.md)
 
-**Senior Digital Platform Manager** - CMS, UX & content governance.
+**Senior Digital Platform Manager** - CMS, UX, content governance & AI workflows.
 
-I'm not a career developer. I come from managing digital platforms: content systems, editorial workflows, SEO and governance for regulated industries (health insurance, banking, biotech). With coding agents I turn those platform and content problems into working tools - a German AI-writing linter, a multi-model CLI, and an audit of 56,198 public pages across the German statutory health insurance sector.
+I come from managing digital platforms, not from a pure software-engineering track: content systems, editorial workflows, SEO and governance for regulated industries such as health insurance, banking and biotech. With coding agents, I turn those operating problems into public tools and studies. The most visible public project right now is [humanizer-de](https://github.com/marmbiz/humanizer-de), an open-source workflow for German AI text with 49 GitHub stars, 66 language-specific patterns and deterministic checks.
 
 🌐 [martin-moeller.biz](https://martin-moeller.biz) · 💼 [LinkedIn](https://www.linkedin.com/in/martinmoellerbiz)
 
@@ -12,11 +12,11 @@ I'm not a career developer. I come from managing digital platforms: content syst
 
 ## ⭐ Featured
 
-🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (49 stars) - A free German text humanizer that detects and removes AI writing patterns (66 patterns across 10 categories). Deterministic linter, 5-pass workflow, installable as a Claude Code plugin.
+🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (49 stars) - Open-source workflow for German AI text: 66 language-specific patterns, deterministic linting and a 5-pass editorial review.
 
 🔍 [**AußenBlick GKV**](https://martin-moeller.biz/en/lab/aussenblick-gkv) - An evidence-based audit of public health and benefit information across nearly the entire German statutory health insurance sector: 56,198 public pages, 84 web units, published as an open-access study.
 
-🧩 [**fusion-lite**](https://github.com/marmbiz/fusion-lite) - Local fusion-style multi-model panels that let your existing CLI and API subscriptions do the heavy lifting.
+🧩 [**fusion-lite**](https://github.com/marmbiz/fusion-lite) - Local multi-model panels for running Claude, Codex, Gemini, Grok and other CLI/API tools from one terminal workflow.
 
 ---
 
@@ -32,9 +32,9 @@ Small, opinionated tools I build and use myself.
 
 ## 🔬 Research & platform work
 
-Where content management meets evidence and governance.
+Projects on content operations, evidence and governance.
 
-🔍 [**AußenBlick GKV**](https://martin-moeller.biz/en/lab/aussenblick-gkv) - Which public statements should editorial teams review first? A reproducible method that surfaces the pages worth a closer look, without rankings and without blame. Public pages only, no insured-person data, no final legal assessment.
+🔍 [**AußenBlick GKV**](https://martin-moeller.biz/en/lab/aussenblick-gkv) - Helps editorial teams identify public statements worth reviewing first. Reproducible method, no ranking, no blame. Public pages only, no insured-person data, no final legal assessment.
 
 ✍️ [**The Lab**](https://martin-moeller.biz/en/lab) - Notes on SEO, GEO and AI-content governance from running real platforms.
 

@@ -2,7 +2,7 @@
 
 [English](README.md) · **Deutsch**
 
-Ich bin kein klassischer Entwickler. Mein Hintergrund ist das Management digitaler Plattformen: Content-Systeme, redaktionelle Workflows, SEO und Governance für regulierte Branchen wie Krankenversicherung, Banking und Biotech. Mit Coding-Agents baue ich daraus Werkzeuge, die laufen: einen Humanizer für deutsche Texte, ein Multi-Model-CLI und ein Audit von 56.198 öffentlichen Seiten aus der gesetzlichen Krankenversicherung.
+Ich komme nicht aus der klassischen Entwicklerlaufbahn. Mein Hintergrund ist das Management digitaler Plattformen: Content-Systeme, redaktionelle Workflows, SEO und Governance in regulierten Branchen wie Krankenversicherung, Banking und Biotech. Mit Coding-Agents baue ich daraus öffentliche Werkzeuge und Studien. Das sichtbarste Beispiel ist [humanizer-de](https://github.com/marmbiz/humanizer-de): ein Open-Source-Workflow für deutsche KI-Texte mit 49 GitHub-Sternen, 66 sprachspezifischen Mustern und deterministischen Checks.
 
 🌐 [martin-moeller.biz](https://martin-moeller.biz) · 💼 [LinkedIn](https://www.linkedin.com/in/martinmoellerbiz)
 
@@ -10,11 +10,11 @@ Ich bin kein klassischer Entwickler. Mein Hintergrund ist das Management digital
 
 ## ⭐ Ausgewählt
 
-🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (49 Sterne) - Ein kostenloser Humanizer für deutsche Texte. Er erkennt und entfernt KI-Schreibmuster, 66 Muster in 10 Kategorien. Deterministischer Linter, 5-Pass-Workflow, als Claude-Code-Plugin installierbar.
+🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (49 Sterne) - Open-Source-Workflow für deutsche KI-Texte: 66 sprachspezifische Muster, deterministischer Linter und redaktioneller 5-Pass-Review.
 
 🔍 [**AußenBlick GKV**](https://martin-moeller.biz/lab/aussenblick-gkv) - Eine evidenzbasierte Prüfung öffentlicher Gesundheits- und Leistungsinformationen über nahezu die gesamte gesetzliche Krankenversicherung: 56.198 öffentliche Seiten, 84 Web-Einheiten, veröffentlicht als Open-Access-Studie.
 
-🧩 [**fusion-lite**](https://github.com/marmbiz/fusion-lite) - Lokale Multi-Model-Panels, die deine vorhandenen CLI- und API-Abos die Arbeit machen lassen.
+🧩 [**fusion-lite**](https://github.com/marmbiz/fusion-lite) - Lokale Multi-Model-Panels für Claude, Codex, Gemini, Grok und andere CLI-/API-Tools.
 
 ---
 
@@ -30,9 +30,9 @@ Kleine, eigensinnige Werkzeuge, die ich baue und selbst nutze.
 
 ## 🔬 Forschung & Plattformarbeit
 
-Wo Content-Management auf Evidenz und Governance trifft.
+Projekte zu Content-Betrieb, Evidenz und Governance.
 
-🔍 [**AußenBlick GKV**](https://martin-moeller.biz/lab/aussenblick-gkv) - Welche öffentlichen Aussagen sollten Fachbereiche zuerst prüfen? Eine reproduzierbare Methode, die die Seiten sichtbar macht, die einen genaueren Blick verdienen, ohne Rangliste und ohne Fehlervorwurf. Nur öffentliche Seiten, keine Versichertendaten, keine rechtliche Letztbewertung.
+🔍 [**AußenBlick GKV**](https://martin-moeller.biz/lab/aussenblick-gkv) - Macht sichtbar, welche öffentlichen Aussagen Fachbereiche zuerst prüfen sollten. Reproduzierbare Methode, keine Rangliste, kein Fehlervorwurf. Nur öffentliche Seiten, keine Versichertendaten, keine rechtliche Letztbewertung.
 
 ✍️ [**Das Lab**](https://martin-moeller.biz/lab) - Notizen zu SEO, GEO und KI-Content-Governance aus dem Betrieb echter Plattformen.
 

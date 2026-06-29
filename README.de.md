@@ -2,7 +2,7 @@
 
 [English](README.md) · **Deutsch**
 
-Ich komme nicht aus der klassischen Entwicklerlaufbahn. Mein Hintergrund ist das Management digitaler Plattformen: Content-Systeme, redaktionelle Workflows, SEO und Governance in regulierten Branchen wie Krankenversicherung, Banking und Biotech. Mit Coding-Agents baue ich daraus öffentliche Werkzeuge und Studien. Das sichtbarste Beispiel ist [humanizer-de](https://github.com/marmbiz/humanizer-de): ein Open-Source-Workflow für deutsche KI-Texte mit 50+ GitHub-Sternen, 66 sprachspezifischen Mustern und deterministischen Checks.
+Ich komme nicht aus der klassischen Entwicklerlaufbahn. Mein Hintergrund ist das Management digitaler Plattformen: Content-Systeme, redaktionelle Workflows, SEO und Governance in regulierten Branchen wie Krankenversicherung, Banking und Biotech. Mit Coding-Agents baue ich daraus öffentliche Werkzeuge und Studien. Das sichtbarste Beispiel ist [humanizer-de](https://github.com/marmbiz/humanizer-de): ein German AI Text Humanizer und deutscher Humanizer Skill für Claude Code und Codex mit 50+ GitHub-Sternen, 66-Muster-Katalog für deutsche KI-Schreibsignale, ausgewählten deterministischen Checks und belegtreuen Rewrites.
 
 🌐 [martin-moeller.biz](https://martin-moeller.biz) · 💼 [LinkedIn](https://www.linkedin.com/in/martinmoellerbiz)
 
@@ -10,7 +10,7 @@ Ich komme nicht aus der klassischen Entwicklerlaufbahn. Mein Hintergrund ist das
 
 ## ⭐ Ausgewählt
 
-🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (50+ Sterne) - Open-Source-Workflow für deutsche KI-Texte: 66 sprachspezifische Muster, deterministischer Linter und redaktioneller 5-Pass-Review.
+🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (50+ Sterne) - German AI Text Humanizer für Claude Code und Codex: 66 deutsch-spezifische KI-Schreibmuster, ausgewählte deterministische Linter und ein belegtreuer redaktioneller 5-Pass-Review.
 
 🔍 [**AußenBlick GKV**](https://martin-moeller.biz/lab/aussenblick-gkv) - Eine evidenzbasierte Prüfung öffentlicher Gesundheits- und Leistungsinformationen über nahezu die gesamte gesetzliche Krankenversicherung: 56.198 öffentliche Seiten, 84 Web-Einheiten, veröffentlicht als Open-Access-Studie.
 
@@ -22,7 +22,7 @@ Ich komme nicht aus der klassischen Entwicklerlaufbahn. Mein Hintergrund ist das
 
 Kleine, eigensinnige Werkzeuge, die ich baue und selbst nutze.
 
-🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (50+ Sterne) - KI-Schreibmuster in deutschen Texten erkennen und entfernen. Hervorgegangen aus [blader/humanizer](https://github.com/blader/humanizer).
+🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (50+ Sterne) - Auditiert KI-Schreibmuster in deutschen Texten und hilft, betroffene Stellen ohne Faktenänderung zu überarbeiten. Hervorgegangen aus [blader/humanizer](https://github.com/blader/humanizer).
 
 🧩 [**fusion-lite**](https://github.com/marmbiz/fusion-lite) - Multi-Model-Panels lokal ausführen und Claude, Codex, Gemini, Grok und mehr aus dem Terminal steuern.
 

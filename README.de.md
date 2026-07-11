@@ -10,6 +10,8 @@ Ich komme nicht aus der klassischen Entwicklerlaufbahn. Mein Hintergrund ist das
 
 ## ⭐ Ausgewählt
 
+🧭 [**future-self**](https://github.com/marmbiz/future-self) *(neu)* - Ein Entscheidungs-Skill für Claude Code und Codex. Eine Frage - "Wird mein zukünftiges Ich mir dafür danken?" - und eine fünfstufige Übung für den Fall, dass die Antwort ausweicht. Endet mit Kill Criteria statt mit einem Ratschlag.
+
 🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (50+ Sterne) - German AI Text Humanizer für Claude Code und Codex: 66 deutsch-spezifische KI-Schreibmuster, ausgewählte deterministische Linter und ein belegtreuer redaktioneller 5-Pass-Review.
 
 🔍 [**AußenBlick GKV**](https://martin-moeller.biz/lab/aussenblick-gkv) - Eine evidenzbasierte Prüfung öffentlicher Gesundheits- und Leistungsinformationen über nahezu die gesamte gesetzliche Krankenversicherung: 56.198 öffentliche Seiten, 84 Web-Einheiten, veröffentlicht als Open-Access-Studie.
@@ -25,6 +27,8 @@ Kleine, eigensinnige Werkzeuge, die ich baue und selbst nutze.
 🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (50+ Sterne) - Auditiert KI-Schreibmuster in deutschen Texten und hilft, betroffene Stellen ohne Faktenänderung zu überarbeiten. Hervorgegangen aus [blader/humanizer](https://github.com/blader/humanizer).
 
 🧩 [**fusion-lite**](https://github.com/marmbiz/fusion-lite) - Multi-Model-Panels lokal ausführen und Claude, Codex, Gemini, Grok und mehr aus dem Terminal steuern.
+
+🧭 [**future-self**](https://github.com/marmbiz/future-self) - Trennt bei folgenreichen Entscheidungen Impuls von Stimmigkeit: Entkernungs-Test, Burden Ledger, zwei Szenen, No-Defense-Test, Kill Criteria. Empfiehlt nie - es liefert die Bedingungen, unter denen jede der beiden Antworten selbstachtungsvoll wäre.
 
 ---
 

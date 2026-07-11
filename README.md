@@ -12,6 +12,8 @@ I come from managing digital platforms, not from a pure software-engineering tra
 
 ## ⭐ Featured
 
+🧭 [**future-self**](https://github.com/marmbiz/future-self) *(new)* - A decision-coherence skill for Claude Code and Codex. One question - "Will my future self thank me for this?" - and a five-stage exercise for when the answer dodges. Ends in kill criteria, not advice.
+
 🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (50+ stars) - German AI Text Humanizer for Claude Code and Codex: 66 German-specific AI-writing patterns, selected deterministic linting and a 5-pass evidence-safe editorial review.
 
 🔍 [**AußenBlick GKV**](https://martin-moeller.biz/en/lab/aussenblick-gkv) - An evidence-based audit of public health and benefit information across nearly the entire German statutory health insurance sector: 56,198 public pages, 84 web units, published as an open-access study.
@@ -27,6 +29,8 @@ Small, opinionated tools I build and use myself.
 🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (50+ stars) - Audits AI-writing patterns in German and helps rewrite affected passages without changing facts. Grew out of [blader/humanizer](https://github.com/blader/humanizer).
 
 🧩 [**fusion-lite**](https://github.com/marmbiz/fusion-lite) - Run multi-model panels locally and orchestrate Claude, Codex, Gemini, Grok and more from the terminal.
+
+🧭 [**future-self**](https://github.com/marmbiz/future-self) - Separates impulse from coherence on consequential decisions: strip-down test, burden ledger, two scenes, no-defense test, kill criteria. Never recommends - it hands you the conditions under which either choice is self-respecting.
 
 ---
 

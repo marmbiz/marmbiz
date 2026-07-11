@@ -10,13 +10,13 @@ Ich komme nicht aus der klassischen Entwicklerlaufbahn. Mein Hintergrund ist das
 
 ## ⭐ Ausgewählt
 
-🧭 [**future-self**](https://github.com/marmbiz/future-self) *(neu)* - Ein Entscheidungs-Skill für Claude Code und Codex. Eine Frage - "Wird mein zukünftiges Ich mir dafür danken?" - und eine fünfstufige Übung für den Fall, dass die Antwort ausweicht. Endet mit Kill Criteria statt mit einem Ratschlag.
-
 🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (50+ Sterne) - German AI Text Humanizer für Claude Code und Codex: 66 deutsch-spezifische KI-Schreibmuster, ausgewählte deterministische Linter und ein belegtreuer redaktioneller 5-Pass-Review.
+
+🧩 [**fusion-lite**](https://github.com/marmbiz/fusion-lite) - Lokale Multi-Model-Panels für Claude, Codex, Gemini, Grok und andere CLI-/API-Tools.
 
 🔍 [**AußenBlick GKV**](https://martin-moeller.biz/lab/aussenblick-gkv) - Eine evidenzbasierte Prüfung öffentlicher Gesundheits- und Leistungsinformationen über nahezu die gesamte gesetzliche Krankenversicherung: 56.198 öffentliche Seiten, 84 Web-Einheiten, veröffentlicht als Open-Access-Studie.
 
-🧩 [**fusion-lite**](https://github.com/marmbiz/fusion-lite) - Lokale Multi-Model-Panels für Claude, Codex, Gemini, Grok und andere CLI-/API-Tools.
+🧭 [**future-self**](https://github.com/marmbiz/future-self) *(neu)* - Ein Entscheidungs-Skill für Claude Code und Codex. Eine Frage - "Wird mein zukünftiges Ich mir dafür danken?" - und eine fünfstufige Übung für den Fall, dass die Antwort ausweicht. Endet mit Kill Criteria statt mit einem Ratschlag.
 
 ---
 

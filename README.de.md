@@ -2,7 +2,7 @@
 
 [English](README.md) · **Deutsch**
 
-Ich komme nicht aus der klassischen Entwicklerlaufbahn. Mein Hintergrund ist das Management digitaler Plattformen: Content-Systeme, redaktionelle Workflows, SEO und Governance in regulierten Branchen wie Krankenversicherung, Banking und Biotech. Mit Coding-Agents baue ich daraus öffentliche Werkzeuge und Studien. Das sichtbarste Beispiel ist [humanizer-de](https://github.com/marmbiz/humanizer-de): ein German AI Text Humanizer und deutscher Humanizer Skill für Claude Code und Codex mit 50+ GitHub-Sternen, 66-Muster-Katalog für deutsche KI-Schreibsignale, ausgewählten deterministischen Checks und belegtreuen Rewrites.
+Ich komme nicht aus der klassischen Entwicklerlaufbahn. Mein Hintergrund ist das Management digitaler Plattformen: Content-Systeme, redaktionelle Workflows, SEO und Governance in regulierten Branchen wie Krankenversicherung, Banking und Biotech. Mit Coding-Agents baue ich daraus öffentliche Werkzeuge und Studien. Das sichtbarste Beispiel ist [humanizer-de](https://github.com/marmbiz/humanizer-de): ein German AI Text Humanizer und deutscher Humanizer Skill für Claude Code und Codex mit 70+ GitHub-Sternen, 72-Muster-Katalog für deutsche KI-Schreibsignale, ausgewählten deterministischen Checks und belegtreuen Rewrites.
 
 🌐 [martin-moeller.biz](https://martin-moeller.biz) · 💼 [LinkedIn](https://www.linkedin.com/in/martinmoellerbiz)
 
@@ -12,7 +12,7 @@ Ich komme nicht aus der klassischen Entwicklerlaufbahn. Mein Hintergrund ist das
 
 Kleine, eigensinnige Werkzeuge, die ich baue und selbst nutze.
 
-🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (50+ Sterne) - German AI Text Humanizer für Claude Code und Codex: 66 deutsch-spezifische KI-Schreibmuster, ausgewählte deterministische Linter und ein belegtreuer redaktioneller 5-Pass-Review. Hervorgegangen aus [blader/humanizer](https://github.com/blader/humanizer).
+🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (70+ Sterne) - German AI Text Humanizer für Claude Code und Codex: 72 deutsch-spezifische KI-Schreibmuster, ausgewählte deterministische Linter und ein belegtreuer redaktioneller 5-Pass-Review. Hervorgegangen aus [blader/humanizer](https://github.com/blader/humanizer).
 
 🧩 [**fusion-lite**](https://github.com/marmbiz/fusion-lite) - Lokale Multi-Model-Panels für Claude, Codex, Gemini, Grok und andere CLI-/API-Tools in einem Terminal-Workflow.
 

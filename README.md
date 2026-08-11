@@ -31,9 +31,3 @@ Projects on content operations, evidence and governance.
 🎤 [**Talk: "Wer verantwortet die Information, der Sie vertrauen?"**](https://www.youtube.com/watch?v=YHvQs7Dq4tI) - The study as a spoken walkthrough, in German.
 
 ✍️ [**The Lab**](https://martin-moeller.biz/en/lab) - Notes on SEO, GEO and AI-content governance from running real platforms.
-
----
-
-## 👋 About
-
-I manage digital platforms from strategy to CMS. Most of my client work lives in private repos; what's public here is the part I can share. Reach me at [martin-moeller.biz](https://martin-moeller.biz).

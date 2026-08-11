@@ -1,7 +1,5 @@
 # Hi, I'm Martin 👋
 
-**English** · [Deutsch](README.de.md)
-
 **Senior Digital Platform Manager** - CMS, UX, content governance & AI workflows.
 
 I come from managing digital platforms, not from a pure software-engineering track: content systems, editorial workflows, SEO and governance for regulated industries such as health insurance, banking and biotech. With coding agents, I turn those operating problems into public tools and studies. The most visible public project right now is [humanizer-de](https://github.com/marmbiz/humanizer-de), a German AI Text Humanizer and Claude/Codex skill with 70+ GitHub stars, a 72-pattern catalog for German AI-writing signals, selected deterministic checks and evidence-safe rewrites.
@@ -26,7 +24,11 @@ Small, opinionated tools I build and use myself.
 
 Projects on content operations, evidence and governance.
 
-🔍 [**AußenBlick GKV**](https://martin-moeller.biz/en/lab/aussenblick-gkv) - An evidence-based audit of public health and benefit information across nearly the entire German statutory health insurance sector: 56,198 public pages, 84 web units, published as an open-access study. Reproducible method, no ranking, no blame.
+🔍 [**AußenBlick GKV**](https://martin-moeller.biz/en/lab/aussenblick-gkv) - An evidence-based audit of public health and benefit information across nearly the entire German statutory health insurance sector: 56,198 public pages, 84 web units. Language models prioritise pages for human review; they never produce the findings. Reproducible method, no ranking, no blame.
+
+📄 **Preprint:** [arXiv:2608.03500](https://arxiv.org/abs/2608.03500) (cs.CY) - *LLM-Assisted Review Prioritization for German Statutory Health Insurance Websites: A Multi-Stage Corpus Audit*. Open-access copy with DOI [on Zenodo](https://doi.org/10.5281/zenodo.20591063). A German short form is under submission at Monitor Versorgungsforschung.
+
+🎤 [**Talk: "Wer verantwortet die Information, der Sie vertrauen?"**](https://www.youtube.com/watch?v=YHvQs7Dq4tI) - The study as a spoken walkthrough, in German.
 
 ✍️ [**The Lab**](https://martin-moeller.biz/en/lab) - Notes on SEO, GEO and AI-content governance from running real platforms.
 

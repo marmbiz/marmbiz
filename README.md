@@ -2,7 +2,7 @@
 
 **Senior Digital Platform Manager** - CMS, UX, content governance & AI workflows.
 
-I come from managing digital platforms, not from a pure software-engineering track: content systems, editorial workflows, SEO and governance for regulated industries such as health insurance, banking and biotech. With coding agents, I turn those operating problems into public tools and studies. The most visible public project right now is [humanizer-de](https://github.com/marmbiz/humanizer-de), a German AI Text Humanizer and Claude/Codex skill with 80+ GitHub stars, a 72-pattern catalog for German AI-writing signals, selected deterministic checks and evidence-safe rewrites.
+I come from managing digital platforms, not from a pure software-engineering track: content systems, editorial workflows, SEO and governance for regulated industries such as health insurance, banking and biotech. With coding agents, I turn those operating problems into public tools and studies. The most visible public project right now is [humanizer-de](https://github.com/marmbiz/humanizer-de), a German AI Text Humanizer and Claude/Codex skill with 100+ GitHub stars, a 72-pattern catalog for German AI-writing signals, selected deterministic checks and evidence-safe rewrites.
 
 🌐 [martin-moeller.biz](https://martin-moeller.biz) · 💼 [LinkedIn](https://www.linkedin.com/in/martinmoellerbiz)
 
@@ -12,7 +12,7 @@ I come from managing digital platforms, not from a pure software-engineering tra
 
 Small, opinionated tools I build and use myself.
 
-🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (80+ stars) - German AI Text Humanizer for Claude Code and Codex: 72 German-specific AI-writing patterns, selected deterministic linting and a 5-pass evidence-safe editorial review. Grew out of [blader/humanizer](https://github.com/blader/humanizer).
+🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (100+ stars) - German AI Text Humanizer for Claude Code and Codex: 72 German-specific AI-writing patterns, selected deterministic linting and a 5-pass evidence-safe editorial review. Grew out of [blader/humanizer](https://github.com/blader/humanizer).
 
 🧩 [**fusion-lite**](https://github.com/marmbiz/fusion-lite) - Local multi-model panels for running Claude, Codex, Gemini, Grok and other CLI/API tools from one terminal workflow.
 

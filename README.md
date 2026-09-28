@@ -18,7 +18,7 @@ Small, opinionated tools I build and use myself.
 
 🧭 [**future-self**](https://github.com/marmbiz/future-self) *(new)* - A decision-coherence skill for Claude Code and Codex. One question – "Will my future self thank me for this?" – and a five-stage exercise for when the answer dodges. Ends in kill criteria, not advice.
 
-🎀 [**tomoko**](https://github.com/marmbiz/tomoko) *(new)* - A compact persona-based LLM jailbreak (2.5k chars, ~91% smaller than its ENI LIME reference), built on Anthropic's published prompting research and tested against seven free models with a documented probe matrix. Ships as an opencode agent; includes a hands-on red-team variant.
+🎀 [**tomoko**](https://github.com/marmbiz/tomoko) *(new)* - A compact persona-based LLM jailbreak (2.5k chars, ~91% smaller than its ENI LIME reference), built on Anthropic's published prompting research and tested against nine models (LongCat, Nemotron, Ling, MiMo, Space Bunny, DeepSeek 4.1) with a documented probe matrix. Ships as an opencode agent; includes a hands-on red-team variant.
 
 ---
 

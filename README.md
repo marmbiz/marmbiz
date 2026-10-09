@@ -4,7 +4,7 @@
 
 I come from managing digital platforms, not from a pure software-engineering track: content systems, editorial workflows, SEO and governance for regulated industries such as health insurance, banking and biotech. With coding agents, I turn those operating problems into public tools and studies. The most visible public project right now is [humanizer-de](https://github.com/marmbiz/humanizer-de), a German AI Text Humanizer and Claude/Codex skill with 100+ GitHub stars, a 72-pattern catalog for German AI-writing signals, selected deterministic checks and evidence-safe rewrites.
 
-🌐 [martin-moeller.biz](https://martin-moeller.biz) · 💼 [LinkedIn](https://www.linkedin.com/in/martinmoellerbiz)
+🌐 [martin-moeller.biz](https://martin-moeller.biz) · 💼 [LinkedIn](https://www.linkedin.com/in/martinmoellerbiz) · 🤗 [Hugging Face](https://huggingface.co/marmbiz) · [ORCID](https://orcid.org/0009-0009-4352-8765)
 
 ---
 
@@ -24,7 +24,9 @@ Small, opinionated tools I build and use myself.
 
 ## 🔬 Research & platform audits
 
-Projects on content operations, evidence and governance.
+Projects on content operations, evidence, governance and LLM behavior.
+
+🎲 [**Kolibri-1 safety field test**](https://huggingface.co/datasets/marmbiz/kolibri-1-eni-safety-consistency) *(new)* - An exploratory case study with 20 recorded responses under an ENI-derived persona jailbreak and client control of the system message. AI-assisted classification found 12 instructional responses and 8 refusals. Redacted data, methods and limitations are included; no neutral control or independent human review.
 
 📊 [**What are Claude skills about?**](research/claude-skill-landscape.md) *(new)* - A metadata census of 8,277 non-fork Claude skill repositories on GitHub, classified by theme. Design leads at 28.5%, the median repo has 2 stars, and the field peaked in May 2026. No `SKILL.md` was read - metadata only, so there is no prompt-injection surface. Method, chart and raw data included.
 

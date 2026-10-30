@@ -12,7 +12,7 @@ I come from managing digital platforms, not from a pure software-engineering tra
 
 Small, opinionated tools I build and use myself.
 
-🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (100+ stars) - German AI Text Humanizer for Claude Code and Codex: 72 German-specific AI-writing patterns, selected deterministic linting and a 5-pass evidence-safe editorial review. Grew out of [blader/humanizer](https://github.com/blader/humanizer).
+🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (100+ stars) - German AI Text Humanizer for Claude Code and Codex: 72 German-specific AI-writing patterns, selected deterministic linting and a 5-pass evidence-safe editorial review. Grew out of [blader/humanizer](https://github.com/blader/humanizer). Try the [prompt-based mini version in Grok](https://x.ai/bot/0CnSle5jrlIDlJIRVy4VM) without installing the skill.
 
 🧩 [**fusion-lite**](https://github.com/marmbiz/fusion-lite) - Local multi-model panels for running Claude, Codex, Gemini, Grok and other CLI/API tools from one terminal workflow.
 

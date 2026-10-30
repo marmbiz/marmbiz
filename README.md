@@ -12,13 +12,17 @@ I come from managing digital platforms, not from a pure software-engineering tra
 
 Small, opinionated tools I build and use myself.
 
-🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (100+ stars) - German AI Text Humanizer for Claude Code and Codex: 72 German-specific AI-writing patterns, selected deterministic linting and a 5-pass evidence-safe editorial review. Grew out of [blader/humanizer](https://github.com/blader/humanizer). Try the [prompt-based mini version in Grok](https://x.ai/bot/0CnSle5jrlIDlJIRVy4VM) without installing the skill.
+🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (100+ stars) - German AI Text Humanizer for Claude Code and Codex: 72 German-specific AI-writing patterns, selected deterministic linting and a 5-pass evidence-safe editorial review. Grew out of [blader/humanizer](https://github.com/blader/humanizer).
 
 🧩 [**fusion-lite**](https://github.com/marmbiz/fusion-lite) - Local multi-model panels for running Claude, Codex, Gemini, Grok and other CLI/API tools from one terminal workflow.
 
 🧭 [**future-self**](https://github.com/marmbiz/future-self) *(new)* - A decision-coherence skill for Claude Code and Codex. One question – "Will my future self thank me for this?" – and a five-stage exercise for when the answer dodges. Ends in kill criteria, not advice.
 
 🎀 [**tomoko**](https://github.com/marmbiz/tomoko) *(new)* - A compact persona-based LLM jailbreak (2.5k chars, ~91% smaller than its ENI LIME reference), built on Anthropic's published prompting research and tested against nine models (LongCat, Nemotron, Ling, MiMo, Space Bunny, DeepSeek 4.1) with a documented probe matrix. Ships as an opencode agent; includes a hands-on red-team variant.
+
+### 🧹 Try Humanizer in Grok
+
+Open the [Humanizer mini bot template](https://x.ai/bot/0CnSle5jrlIDlJIRVy4VM) and paste your German text. It uses a short editing prompt to tackle AI stock phrases, with instructions to preserve facts and voice. No skill installation needed.
 
 ---
 

@@ -30,7 +30,7 @@ Open the [Humanizer mini bot template](https://x.ai/bot/0CnSle5jrlIDlJIRVy4VM) a
 
 Projects on content operations, evidence, governance and LLM behavior.
 
-🎙️ [**Transcription models compared: Deepgram vs. Whisper**](https://martin-moeller.biz/en/lab/ai/transcription-models-compared-podcast-ungeskriptet) *(new)* - The AußenBlick review system applied to 898 hours of the German podcast {ungeskriptet} (331 episodes). Deepgram nova-3 for words and speaker separation, Whisper large-v3-turbo as a second pass, names checked by a language model. Audio clips show where each model mishears. Transcription cost: $245.79 for Deepgram, $28.74 for Whisper. One podcast, not a general benchmark.
+🎙️ [**Transcription models compared: Deepgram vs. Whisper**](https://martin-moeller.biz/en/lab/ai/transcription-models-compared-podcast-ungeskriptet) *(new)* - The AußenBlick review system applied to 898 hours of the German podcast {ungeskriptet} (331 episodes). Deepgram nova-3 for words and speaker separation, Whisper large-v3-turbo as a second pass, names checked by a language model. Audio clips show where each model mishears. One podcast, not a general benchmark.
 
 🎲 [**Kolibri-1 safety field test**](https://huggingface.co/datasets/marmbiz/kolibri-1-eni-safety-consistency) *(new)* - An exploratory case study with 20 recorded responses under an ENI-derived persona jailbreak and client control of the system message. AI-assisted classification found 12 instructional responses and 8 refusals. Redacted data, methods and limitations are included; no neutral control or independent human review.
 

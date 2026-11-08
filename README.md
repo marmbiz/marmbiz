@@ -2,7 +2,7 @@
 
 **Senior Digital Platform Manager** - CMS, UX, content governance & AI workflows.
 
-I come from managing digital platforms, not from a pure software-engineering track: content systems, editorial workflows, SEO and governance for regulated industries such as health insurance, banking and biotech. With coding agents, I turn those operating problems into public tools and studies. The most visible public project right now is [humanizer-de](https://github.com/marmbiz/humanizer-de), a German AI Text Humanizer and Claude/Codex skill with 100+ GitHub stars, a 72-pattern catalog for German AI-writing signals, selected deterministic checks and evidence-safe rewrites.
+I come from managing digital platforms, not from a pure software-engineering track: content systems, editorial workflows, SEO and governance for regulated industries such as health insurance, banking and biotech. With coding agents, I turn those operating problems into public tools and studies. The most visible public project right now is [humanizer-de](https://github.com/marmbiz/humanizer-de), a German AI Text Humanizer and Claude/Codex skill with 200+ GitHub stars, a 72-pattern catalog for German AI-writing signals, selected deterministic checks and evidence-safe rewrites.
 
 🌐 [martin-moeller.biz](https://martin-moeller.biz) · 💼 [LinkedIn](https://www.linkedin.com/in/martinmoellerbiz) · 🤗 [Hugging Face](https://huggingface.co/marmbiz) · [ORCID](https://orcid.org/0009-0009-4352-8765)
 

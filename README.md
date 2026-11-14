@@ -21,7 +21,7 @@ My two main public projects are:
 
 Built for German editorial teams, content governance, SEO and regulated publishing. [Read the German guide](https://martin-moeller.biz/lab/ki/humanizer-deutsch-ki-texte-erkennen-entfernen) or [install the skill](https://github.com/marmbiz/humanizer-de#installation). [Licenses: MIT + CC BY-SA 4.0](https://github.com/marmbiz/humanizer-de/blob/main/NOTICE).
 
-**Try it without installing a skill:** [Humanizer mini prompt in Grok](https://x.ai/bot/0CnSle5jrlIDlJIRVy4VM). Open the template and paste your German text. This short editing prompt works on AI stock phrases with instructions to preserve facts and voice; the full skill adds the pattern catalog and local checks.
+**Humanizer in Grok:** [Humanizer Grok Bot Skill](https://x.ai/bot/0CnSle5jrlIDlJIRVy4VM) for editing German text.
 
 ---
 

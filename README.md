@@ -6,10 +6,22 @@ I come from managing digital platforms, not from a pure software-engineering tra
 
 My two main public projects are:
 
+- **[humanizer-de](https://github.com/marmbiz/humanizer-de)**: one of the most-starred German-focused AI humanizer skills on GitHub, with **200+ stars**.[^humanizer-stars] Built for **Claude Code & OpenAI Codex** to edit German AI text while preserving facts and author voice.
 - **[AußenBlick GKV – Studie zu öffentlichen Krankenkasseninformationen](https://martin-moeller.biz/lab/aussenblick-gkv)**: a study of **56,198 public pages across 84 websites and sub-sites** in the German statutory health insurance sector. It examines how LLM-assisted triage can prioritise specialist review of health and benefit information. [Preprint: arXiv:2608.03500](https://arxiv.org/abs/2608.03500).
-- **[humanizer-de](https://github.com/marmbiz/humanizer-de)**: a German AI Text Humanizer and Claude/Codex skill with **200+ GitHub stars**, a 72-pattern catalog for German AI-writing signals, selected deterministic checks and evidence-safe rewrites.
 
 🌐 [martin-moeller.biz](https://martin-moeller.biz) · 💼 [LinkedIn](https://www.linkedin.com/in/martinmoellerbiz) · 🤗 [Hugging Face](https://huggingface.co/marmbiz) · [ORCID](https://orcid.org/0009-0009-4352-8765)
+
+---
+
+## 🧹 humanizer-de — German AI Text Humanizer
+
+**KI-Texte menschlicher machen: KI-Floskeln redigieren, Schreibstimme erhalten.**
+
+[**humanizer-de**](https://github.com/marmbiz/humanizer-de) is an open-source **Claude Code & OpenAI Codex skill** with **200+ GitHub stars**. It combines a **72-pattern catalog** of German AI clichés (*KI-Floskeln*), **register & rhythm analysis**, selected **deterministic linting** and a **5-pass editorial review**. Its evidence-safe (*belegtreu / quellentreu*) post-editing is designed to preserve facts, sources and the author's voice (*Schreibstimme*).
+
+Built for German editorial teams, content governance, SEO and regulated publishing. [Read the German guide](https://martin-moeller.biz/lab/ki/humanizer-deutsch-ki-texte-erkennen-entfernen) or [install the skill](https://github.com/marmbiz/humanizer-de#installation). [Licenses: MIT + CC BY-SA 4.0](https://github.com/marmbiz/humanizer-de/blob/main/NOTICE).
+
+**Try it without installing a skill:** [Humanizer mini prompt in Grok](https://x.ai/bot/0CnSle5jrlIDlJIRVy4VM). Open the template and paste your German text. This short editing prompt works on AI stock phrases with instructions to preserve facts and voice; the full skill adds the pattern catalog and local checks.
 
 ---
 
@@ -37,11 +49,9 @@ The study examines medical and benefit information, legal framing, transparency 
 
 ---
 
-## 🛠️ Open source tools
+## 🛠️ Other open source tools
 
 Small, opinionated tools I build and use myself.
-
-🧹 [**humanizer-de**](https://github.com/marmbiz/humanizer-de) (200+ stars) - German AI Text Humanizer for Claude Code and Codex: 72 German-specific AI-writing patterns, selected deterministic linting and a 5-pass evidence-safe editorial review. Grew out of [blader/humanizer](https://github.com/blader/humanizer).
 
 🧩 [**fusion-lite**](https://github.com/marmbiz/fusion-lite) - Local multi-model panels for running Claude, Codex, Gemini, Grok and other CLI/API tools from one terminal workflow.
 
@@ -49,6 +59,4 @@ Small, opinionated tools I build and use myself.
 
 🎀 [**tomoko**](https://github.com/marmbiz/tomoko) *(new)* - A compact persona-based LLM jailbreak (2.5k chars, ~91% smaller than its ENI LIME reference), built on Anthropic's published prompting research and tested against nine models (LongCat, Nemotron, Ling, MiMo, Space Bunny, DeepSeek 4.1) with a documented probe matrix. Ships as an opencode agent; includes a hands-on red-team variant.
 
-### 🧹 Try Humanizer in Grok
-
-Open the [Humanizer mini bot template](https://x.ai/bot/0CnSle5jrlIDlJIRVy4VM) and paste your German text. It uses a short editing prompt to tackle AI stock phrases, with instructions to preserve facts and voice. No skill installation needed.
+[^humanizer-stars]: GitHub [repositories tagged `humanizer` and `german`, sorted by stars](https://github.com/search?q=topic%3Ahumanizer+topic%3Agerman&type=repositories&s=stars&o=desc), checked November 14, 2026: humanizer-de had 207 stars and ranked first among the 12 results. This comparison covers those topic-tagged repositories.

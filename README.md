@@ -7,7 +7,7 @@ I come from managing digital platforms, not from a pure software-engineering tra
 My two main public projects are:
 
 - **[humanizer-de](https://github.com/marmbiz/humanizer-de)**: one of the most-starred German-focused AI humanizer skills on GitHub, with **200+ stars**.[^humanizer-stars] Built for **Claude Code & OpenAI Codex** to edit German AI text while preserving facts and author voice.
-- **[AußenBlick GKV – Studie zu öffentlichen Krankenkasseninformationen](https://martin-moeller.biz/lab/aussenblick-gkv)**: a study of **56,198 public pages across 84 websites and sub-sites** in the German statutory health insurance sector. It examines how LLM-assisted triage can prioritise specialist review of health and benefit information. [Preprint: arXiv:2608.03500](https://arxiv.org/abs/2608.03500).
+- **[AußenBlick GKV – Studie zu öffentlichen Krankenkasseninformationen](https://martin-moeller.biz/lab/aussenblick-gkv)**: independent, self-initiated research without university affiliation or external funding, covering **56,198 public pages across 84 websites and sub-sites** in the German statutory health insurance sector. It examines how LLM-assisted triage can prioritise specialist review of health and benefit information. [Preprint: arXiv:2608.03500](https://arxiv.org/abs/2608.03500).
 
 🌐 [martin-moeller.biz](https://martin-moeller.biz) · 💼 [LinkedIn](https://www.linkedin.com/in/martinmoellerbiz) · 🤗 [Hugging Face](https://huggingface.co/marmbiz) · [ORCID](https://orcid.org/0009-0009-4352-8765)
 
@@ -29,9 +29,11 @@ Built for German editorial teams, content governance, SEO and regulated publishi
 
 ### 🔍 AußenBlick GKV — German statutory health insurance (*Krankenkassen*) audit
 
+**Independent, self-initiated research by Martin Möller — without a university affiliation, a paid commission or external funding.**
+
 [AußenBlick GKV – Studie zu öffentlichen Krankenkasseninformationen](https://martin-moeller.biz/lab/aussenblick-gkv) covers **56,198 public pages across 84 websites and sub-sites** of German statutory health insurers (*gesetzliche Krankenversicherung / Krankenkassen*), using a May 2026 snapshot.
 
-The study examines medical and benefit information, legal framing, transparency and contradictions to build a prioritised workload for editorial and specialist review. Model-assisted triage identifies review candidates; medical or legal conclusions require human adjudication. The study reports a review workload, not an error rate or insurer ranking.
+The study turns a large corpus of public health and benefit information into a prioritised review workload for editorial, medical and legal teams. It examines transparency, medical content, benefit claims, legal framing and contradictions. Language models help prioritise review; specialist conclusions require human adjudication. The output is a review workload, not an error rate or insurer ranking.
 
 📄 **Preprint:** [AußenBlick GKV: LLM-Assisted Review Prioritization for German Statutory Health Insurance Websites: A Multi-Stage Corpus Audit](https://arxiv.org/abs/2608.03500) — arXiv:2608.03500 (cs.CY). [Open-access preprint on Zenodo](https://doi.org/10.5281/zenodo.20591063). A German short form is under submission at *Monitor Versorgungsforschung*. The paper documents the method and its reproducibility limits.
 
